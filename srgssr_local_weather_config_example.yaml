@@ -1,0 +1,7 @@
+credentials:
+  client_id: ADD_YOUR_ID_HERE
+  client_secret: ADD_YOUR_SECRET_HERE
+
+location:
+  lat: somewhere_in_CH
+  lon: somewhere_in_CH
